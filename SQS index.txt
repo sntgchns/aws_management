@@ -1,0 +1,4 @@
+JSON ó YAML ?
+
+queue tipo Estandar ó FIFO ?
+
